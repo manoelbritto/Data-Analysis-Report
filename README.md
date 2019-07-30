@@ -1,6 +1,6 @@
 # Project: Report Data Visualization 
 
-This project analysis data of pharmaceutical research. They want to track a treatment onto 250 mice for skin cancer. Then the visualization will show the evaluation of some drugs treatment. The final proposal of this project is to show my skills to collect data and plot them using python libraries, for instance, matplotlib and pandas. 
+This project analysis data of pharmaceutical research. They want to track a treatment onto 250 mice for skin cancer. Then the visualization will show the evaluation of some drugs treatment. In addition, the final purpose of this project is to show my skills to collect data and plot them using python libraries, for instance, matplotlib and pandas. 
 
 ## Getting Started
 
