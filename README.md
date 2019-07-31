@@ -52,7 +52,7 @@ Python
 
 Version 1.0
 
-## Acknowledgments
+## Features
 
 1.	Python
 2.	Libraries: 
